@@ -45,7 +45,7 @@ public class RoundHouseAction implements Action {
      * @return the display name
      */
     public String getDisplayName() {
-        return "Chuck Norris";
+        return "Rajnikanth";
     }
 
     /**
@@ -65,7 +65,7 @@ public class RoundHouseAction implements Action {
     }
 
     /**
-     * Gets the Chuck Norris style.
+     * Gets the Rajni style.
      * @return the style
      */
     public Style getStyle() {
@@ -79,7 +79,7 @@ public class RoundHouseAction implements Action {
     }
 
     /**
-     * Gets the Chuck Norris fact.
+     * Rajni fact
      * @return the fact
      */
     public String getFact() {
